@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_simplePrint.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Luz y sombra</title>
+            <author>Soledad Acosta de Samper</author>
+            <editor>Isabela Areiza Baena</editor>
+                    </titleStmt>
+         <publicationStmt>
+            <p></p>
+         </publicationStmt>
+         <sourceDesc>
+         <bibl>
+         <pubPlace>Bogota</pubPlace>
+         <publisher>Editorial minerva S.A</publisher>
+         <date></date>
+         </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <pb n="97"></pb> 
+
+         <div><p>-Sí; allí están todos.</p>
+         <p>-¿Y la hija de usted por qué no la acompaña?</p>
+         <p>-La pobre, dijo, con una sonrisa de resignación, está en vísperas de casarse, y no era justo que abandonase a su novio para venirse al lado de una inválida como yo.</p>
+         <p>-¿Y el señor N<corr>...</corr> su esposo?</p>
+         <p>-El clima cálido le hace daño.</p>
+         <p>-¿Y sus dos hijos?<corr>...</corr></p>
+         <p>- Sus negocios les impiden salir al <name=type="place">campo</name>. Pero vino acompañándome el negro, el mismo <name type="rol">esclavo</name> que conocerías en casa, y el único que comprende y soporta mis caprichos; él nunca me ha querido abandonar a pesar de ser ya libre.</p>
+         <p>Un antiguo <name type= "rol">esclavo</name> fiel era el único y el último apoyo que le había quedado a aquella mujer tan festejada. Se me aprestaba el corazón al oírla, y se me llenaron los ojos de lágrimas al contemplar una vejez tan triste después de una juventud tan brillante<corr>...</corr></p>
+         <p><name type="person">Aureliana</name> permaneció un mes en mi casa, atendida, me dijo, como no se veía hacía mucho tiempo. En las largas conversaciones que tuvimos comprendí que la segunda parte de su vida había sido una terrible expiación de la loca vanidad de la primera. Poco a poco me fue descubriendo los secretos más dolorosos de su vida.</p>
+         
+         <pb n="98"></pb> 
+
+         <p>Casada hacia el fin de su juventud con un hombre a quien ella no amaba, y de quien no era amada, pronto descubrió que él solo había querido especular con su riqueza, y noto con terror que su belleza desaparecía paso, a paso. Sin educación esmerada, sin instrucción alguna, al perder esa hermosura que era su único atractivo, los admiradores fueron abandonándola sucesivamente. Veía con afán que su presencia no causaba ya emoción y que las miradas de los concurrentes a las fiestas a que asistía no se fijaban en ella. Deseosa entonces de abandonar el teatro de sus primeros triunfos, acompaño a su esposo con gusto a los <name type= "country">Estados Unidos</name>; pero allí se vio aun más desdeñada. Desesperada, procuro hacer mil esfuerzos para recuperar su perdida hermosura, y pasaba largas horas delante de su espejo adornándose con todo el arte que una experiencia consumada le había enseñado. Ocasión hubo en que su espejo le hacía ver de nuevo la <name type= "person">Aureliana</name> de su juventud y llena de ilusiones y colmada de esperanzas se presentaba en las fiestas y los bailes, pero los demás la miraban como se mira a una ruina blanqueada y pintada. Otras, muy bellas pero más jóvenes, se llevaban palma.</p>
+         <p>¡Cuántos y cuán crueles desengaños tendría aquella pobre mujer, que había fincado su vida en sus atractivos personales! sufría momentos de postración en que pedía a Dios la muerte más bien que dejar de ser admirada.</p>
+         
+         <pb n="99"></pb>
+         
+         <p>En esas luchas, en este afán pasó algunos años antes de llegar a persuadirse de la inutilidad de sus esfuerzos. Las aguas, los polvos y los cosméticos con que procuró hacer revivir su perdida frescura aniquilaron los restos de su colorido y mancharon lo albo de su tez; las enfermedades apagaron antes de tiempo el brillo de sus ojos y destruyeron su hermosa cabellera, y por añadidura las lágrimas, los desengaños y las penas domésticas acabaron con el último resto de su singular belleza.</p>
+         <p>Durante la niñez de sus hijos éstos se habían visto abandonados por la madre, que perseguía sus últimos triunfos; y así perdió ese primer cariño filial tan puro y tan bello. Por otra parte, las palabras desdeñosas del señor N <corr>...</corr> habían hecho nacer en el corazón de esos niños un sentimiento de completa indiferencia hacia su madre desamada y poco respetada.</p>
+         <p>Cuando al fin <name type="person">Aureliana</name> se convenció que habían pasado los últimos arreboles de vanidad mundana, se volvió hacia sus hijos; pero recibieron con disgusto sus expresiones de cariño, creyeron que era uno de los muchos caprichos pasajeros de que su padre la acusaba diariamente, y llenos de frialdad no le hicieron caso.</p>
+         <p><name type="person">Aureliana</name> era, en efecto, impertinente y caprichosa, resultado natural e infalible de su mala educación  y de la vida que había llevado</p>
+         
+         </div>
+      </body>
+  </text>
+</TEI>

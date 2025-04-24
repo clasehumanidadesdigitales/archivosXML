@@ -30,8 +30,8 @@
          <p>-¿Y el señor N<corr>...</corr> su esposo?</p>
          <p>-El clima cálido le hace daño.</p>
          <p>-¿Y sus dos hijos?<corr>...</corr></p>
-         <p>- Sus negocios les impiden salir al <name=type="place">campo</name>. Pero vino acompañándome el negro, el mismo <name type="rol">esclavo</name> que conocerías en casa, y el único que comprende y soporta mis caprichos; él nunca me ha querido abandonar a pesar de ser ya libre.</p>
-         <p>Un antiguo <name type= "rol">esclavo</name> fiel era el único y el último apoyo que le había quedado a aquella mujer tan festejada. Se me aprestaba el corazón al oírla, y se me llenaron los ojos de lágrimas al contemplar una vejez tan triste después de una juventud tan brillante<corr>...</corr></p>
+         <p>- Sus negocios les impiden salir al <name type="place">campo</name>. Pero vino acompañándome el negro, el mismo <name type="personRoleName">esclavo</name> que conocerías en casa, y el único que comprende y soporta mis caprichos; él nunca me ha querido abandonar a pesar de ser ya libre.</p>
+         <p>Un antiguo <name type="personRoleName">esclavo</name>fiel era el único y el último apoyo que le había quedado a aquella mujer tan festejada. Se me aprestaba el corazón al oírla, y se me llenaron los ojos de lágrimas al contemplar una vejez tan triste después de una juventud tan brillante<corr>...</corr></p>
          <p><name type="person">Aureliana</name> permaneció un mes en mi casa, atendida, me dijo, como no se veía hacía mucho tiempo. En las largas conversaciones que tuvimos comprendí que la segunda parte de su vida había sido una terrible expiación de la loca vanidad de la primera. Poco a poco me fue descubriendo los secretos más dolorosos de su vida.</p>
          
          <pb n="98"></pb> 

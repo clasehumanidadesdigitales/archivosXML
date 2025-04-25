@@ -2,53 +2,115 @@
 <?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_simplePrint.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Luz y sombra (fragmento 81–83)</title>
-        <author>Soledad Acosta de Samper</author>
-        <editor>Elizabeth Hernández</editor>
-      </titleStmt>
-      <publicationStmt>
-        <p>Edición digital adaptada al formato TEI por Elizabeth Hernández.</p>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl>
-          <pubPlace>Bogotá</pubPlace>
-          <publisher>E. Vanderhaeghen.</publisher>
-          <date>1937</date>
-        </bibl>
-      </sourceDesc>
-    </fileDesc>
+      <fileDesc>
+         <titleStmt>
+            <title></title>
+            <author>Soledad Acosta de Samper</author>
+            <editor>Maria Salomé Ospina Valencia</editor>
+            <editor>Simón Bolívar Serna</editor>
+            <editor>Susana Angarita Vásquez</editor>
+            <editor>Isabela Areiza</editor>
+            <editor>Elizabeth Hernández </editor>
+            <editor>Daniela Uribe Velásquez</editor>
+            
+
+                    </titleStmt>
+         <publicationStmt>
+            <p></p>
+         </publicationStmt>
+         <sourceDesc>
+         <bibl>
+         <pubPlace>Bogotá</pubPlace>
+         <publisher>Editorial Minerva S.A</publisher>
+         <date>1937</date>
+         </bibl>
+         </sourceDesc>
+      </fileDesc>
   </teiHeader>
   <text>
-    <body>
-      <div>
-        <p>La juventud</p>
-        <p>Brillaba <name type="person">Santander</name>  en toda su gloria militar, en todo el esplendor de sus triunfos y en el apogeo de su juventud y gallardía. El pueblo se regocijaba con su adquirida patria, y el gozo y satisfacción que causa el sentimiento de la libertad noblemente conquistada se leía en todos los semblantes.</p>
-        <p>Contaba yo de catorce a quince años. Había perdido a mi madre poco antes, y mi padre, viéndome triste y abatida, quiso que acompañada por una señora respetable, visitase a Bogotá y asistiese a las procesiones de Semana Santa, que se anunciaban particularmente solemnes para ese año. En aquel tiempo el pueblo confundía siempre el sentimiento religioso con los acontecimientos políticos, y en la semana santa cada cual procuraba manifestarse agradecido al que nos había libertado del yugo de España.</p>
-        <p>Triste, desalentada, tímida y retraída llegué a casa de las señoritas Hernández, donde mi compañera, doña Prudencia, acostumbraba desmontarse en Bogotá. Las Hernández eran las mujeres más de moda y más afamadas por su belleza que había entonces, particularmente una de ellas, Aureliana. Llegamos el lunes santo a las dos de la tarde, y doña Prudencia, deseosa de que yo no perdiese procesión, me obligó a vestirme, y casi por fuerza me llevó a un balcón de la calle real a reunirnos a las Hernández, que ya habían salido de casa.</p>
-        <p>Cuando vi los balcones llenos de gente ricamente vestida, las barandas cubiertas con fastuosas colchas, y me encontré en medio de una multitud de muchachas alegres y chanceras, me sentí profundamente triste y avergonzada, y hubiera querido estar en el bosque, más retirado de la hacienda de mi padre.</p>
-        <p>–¡Allá viene Aureliana! –exclamó doña Prudencia.</p>
-        <p>–¿Dónde? –pregunté, deseosa de conocerla; pues su extraordinaria hermosura era el tema de todas las conversaciones.</p>
-        <p>–Aquella que viene rodeada de varios caballeros.</p>
-        <p>–¿La que trae saya de terciopelo negro con adornos azules y velo de encaje negro?</p>
-        <p>–No, ésa es Sebastiana, la hermana mayor. La que viene detrás con una saya de terciopelo violeta, guarniciones de raso blanco y mantilla de encaje blanco, es Aureliana.</p>
-        <p>¡No creo que haya habido nunca mujer más hermosa! Un cuerpo elegante y gallardo, una blancura maravillosa, ojos que brillaban como soles, labios divinamente formados que cubrían dientes de perlas... y por último sin igual donaire y gracia. Subió inmediatamente al balcón en que yo estaba, rodeada por un grupo de jóvenes que como mariposas giraban en torno suyo. Los saludos, las sonrisas, las miradas tiernas, los elogios más apasionados eran para Aureliana. Sebastiana era también muy bella, pero su hermana arrebataba y hacía olvidar a todas las demás. Su gracia, sus movimientos elegantes, su angelical sonrisa y mirada, ya lánguida, ya viva, alegre o sentimental, todo en Aureliana encantaba.</p>
-      </div>
-    </body>
-  </text>
-</TEI>
-        <p>Brillaba Santander en toda su gloria militar, en todo el esplendor de sus triunfos y en el apogeo de su juventud y gallardía. El pueblo se regocijaba con su adquirida patria, y el gozo y satisfacción que causa el sentimiento de la libertad noblemente conquistada se leía en todos los semblantes.</p>
-        <p>Contaba yo de catorce a quince años. Había perdido a mi madre poco antes, y mi padre, viéndome triste y abatida, quiso que acompañada por una señora respetable, visitase a Bogotá y asistiese a las procesiones de Semana Santa, que se anunciaban particularmente solemnes para ese año. En aquel tiempo el pueblo confundía siempre el sentimiento religioso con los acontecimientos políticos, y en la semana santa cada cual procuraba manifestarse agradecido al que nos había libertado del yugo de España.</p>
-        <p>Triste, desalentada, tímida y retraída llegué a casa de las señoritas Hernández, donde mi compañera, doña Prudencia, acostumbraba desmontarse en Bogotá. Las Hernández eran las mujeres más de moda y más afamadas por su belleza que había entonces, particularmente una de ellas, Aureliana. Llegamos el lunes santo a las dos de la tarde, y doña Prudencia, deseosa de que yo no perdiese procesión, me obligó a vestirme, y casi por fuerza me llevó a un balcón de la calle real a reunirnos a las Hernández, que ya habían salido de casa.</p>
-        <p>Cuando vi los balcones llenos de gente ricamente vestida, las barandas cubiertas con fastuosas colchas, y me encontré en medio de una multitud de muchachas alegres y chanceras, me sentí profundamente triste y avergonzada, y hubiera querido estar en el bosque, más retirado de la hacienda de mi padre.</p>
-        <p>–¡Allá viene Aureliana! –exclamó doña Prudencia.</p>
-        <p>–¿Dónde? –pregunté, deseosa de conocerla; pues su extraordinaria hermosura era el tema de todas las conversaciones.</p>
-        <p>–Aquella que viene rodeada de varios caballeros.</p>
-        <p>–¿La que trae saya de terciopelo negro con adornos azules y velo de encaje negro?</p>
-        <p>–No, ésa es Sebastiana, la hermana mayor. La que viene detrás con una saya de terciopelo violeta, guarniciones de raso blanco y mantilla de encaje blanco, es Aureliana.</p>
-        <p>¡No creo que haya habido nunca mujer más hermosa! Un cuerpo elegante y gallardo, una blancura maravillosa, ojos que brillaban como soles, labios divinamente formados que cubrían dientes de perlas... y por último sin igual donaire y gracia. Subió inmediatamente al balcón en que yo estaba, rodeada por un grupo de jóvenes que como mariposas giraban en torno suyo. Los saludos, las sonrisas, las miradas tiernas, los elogios más apasionados eran para Aureliana. Sebastiana era también muy bella, pero su hermana arrebataba y hacía olvidar a todas las demás. Su gracia, sus movimientos elegantes, su angelical sonrisa y mirada, ya lánguida, ya viva, alegre o sentimental, todo en Aureliana encantaba.</p>
-      </div>
-    </body>
+      <body>
+         <div>
+        <pb n="90"></pb>
+         <p>-¡Qué carácter tan extraño tiene usted! pero continúe : ¿qué se hizo <name type= "person">Fernando</name>?</p>  
+         <p>-Lo vas a oír. Hace algunos meses el <name type="personRoleName">Libertador</name> dio un baile en una quinta en los alrededores de <name type="placeGeog">Bogotá</name>. La noche estaba lindísima y la luna iluminaba <name type= "place">los jardines</name> . Fatigada del ruido y deseosa de encontrarme sola para leer una carta que se me había entregado misteriosamente, me escapé de la casa sin ser vista, y me dirigí hacia <name type="place">un pabellón</name>situado en el fondo del <name type="place">jardín</name>,en donde sabía que hallaría luz y soledad. Envuelta en un grueso pañolón que me escudaba del frío de la noche, atravesé prestamente <name type="place">el jardín</name>y tomé una senda sombreada por arbustos, y cortada por un arroyo que bajaba resonante del vecino cerro. El contraste del ruido, las luces, la armonía y la agitación de un baile con el tranquilo paisaje que atravesaba, me predispuso a una melancolía vaga muy extraña a mi , carácter. Una lámpara colgada del techo iluminaba <name type="place"></name>el pabellón: al llegar a él me dejé caer sobre un sofá y se me escapó un suspiro. Otro suspiro hizo eco a mi lado, y volviéndome hacia la puerta vi que un caballero estaba ahí en pie. Disgustada del espionaje impertinente iba a reconvenir al que habia interrumpido mi soledad, cuando éste desembozándose descubrió la pálida e interesante fisonomia de <name type= "person">Fernando</name>.</p>
+         <pb n="91"></pb>
+         <p>-¿<name type= "person">Fernando</name>, dije, es usted? . </p>
+         <p>-Tiene usted razón de admirarse, <name type= "person">Aureliana</name>: no debía hallarme aquí, dijo, y tomándome la mano, que instintivamente le alargaba, Imprimió sus labios en ella.</p>
+         <p>-¿Para qué luchar más? añadió sentándose a mi lado; ¿para qué fingir des<add>a</add>pego cuando no puedo menos que adorarla? .</p>
+         <p>No sé si el corazon de todas las mujeres es igual al mío; pero en vez de sentirme dichosa con mi antes anhelada conquista, mi corazón permaneció tranquilo e indiferente. La desilusión más profunda se apoderó de mí al 
+         comprender que no era caoaz de amar al único hombre que tanto había admirado; Y en lugar de contestarle como hubiera hecho a otro cualquiera, bajé la cabeza en silencio y con amargura pensaba que todos los hombres son iguales puesto que basta lisonjear su vanidad para verlos rendidos.</p>
+         <pb n="92"></pb>
+         <p><name type= "person">Fernando</name> me refirió entonces la historia de su amor. Me confesó que cuando me había conocido, primero sintió hacia mi cierta repulsión y odio, y miraba con desden a todos los que se me humillaban; pero que el deseo que le manifesté de oír sus consejos y de agradarle, en lugar de resentirme por sus censuras, le había sorprendido y poco a poco su odio fue cambiándose en un afecto verdadero que se convirtió en amor violento. Disgustado y humillado al comprender que no tenía fuerza para defenderse, había luchado largo tiempo por vencer su inclinaci6n, y al fin determinó huir de mí y me había hecho entregar sigilosamente una carta aquella noche. Era una tierna despedida.</p>
+         <p>Logré que <name type= "person">Fernando</name> no partiera. Deseaba despertar en mi corazón aquel interés que había creído sentir por él en un tiempo. ¡Amar debe de ser tan bello! Pronto el mismo <name type= "person">Fernando</name> descubrió que yo misma procuraba engañarme y que nunca podría amarlo. Sentía sin embargo perder un corazón tan noble y quise convencerlo de que lo amaba, pero él no se engañó, y se despidió de mí resignado y triste, bien que sin manifestarse herido en su amor propio. Hace un mes supe que había muerto en Cartagena en un duelo por causa mía, defendiéndome de las calumnias que propagaba contra mí un oficial a quien había desdeñado. Esta muerte me causa a veces remordimientos. ¿Pero qué culpa tengo si no lo podía amar? nunca le dije que no le correspondía ...</p>
+         <p>-En eso estuvo el error. </p>
+         <p>-Tal vez ; pues me decía que mis miradas y mis expresiones de cariño le habían hecho concebir esperanzas, y creía por momentos que no lo miraba con indiferencia. Sin esa idea jamás me hubiera amado.</p>
+         
+         <pb n="93"></pb>
+         <p>-¡Pobre joven! exclamé; desventurado el que la ame a usted.</p>
+         <p>-No digas eso, contestó <name type="person">Aureliana</name> con amargura. El que ama está recompensado con el grato sentimiento que lo anima. Algunas veces me he sentido inspirada por ráfagas, desgraciadamente pasajeras, de una ternura que me ha henchido el corazón, ennoblecido el alma y llenádome de bellos pensamientos. ¡Pero cuán cortos han sido estos instantes! He pasado mis días buscando con ahinco el amor, único objeto de la vida de una mujer, pero en su lugar solo he hallado desengaños y vacío. No creas que la coquetería que me tachan, quizás con razón, es el fruto de un corazón pervertido; no lo creas; es que busco en todas partes un ideal que huye de mí incesantemente. </p>
+         <p>El lenguaje escogido, aunque sin verdadera profundidad de ideas que distinguía a <name type="person">Aureliana</name> la hacía en extremo agradable, pero no sabía hablar con elocuencia sino de sí misma. </p>
+         <p>De vez en cuando llegaba hasta nuestros oídos el eco lejano de la música del baile a que <name type="person">Aureliana</name> había rehusado concurrir. Sacó su reloj (objeto raro en aquel tiempo) que pendía de una gruesa cadena que llevaba al cuello ; eran las doce de la noche. </p>
+         
+         <pb n="94"></pb>
+         <p>-Esta noche no podré dormir, dijo suspirando. La conversación que hemos tenido me ha causado suma tristeza y me ha recordado escenas que quisiera olvidar. Fernando no es el único que se ha perdido por causa mía. </p>
+         <p>-¡Qué alegres y triunfantes estarán mis hermanas y mis amigas sin mi presencia esta noche!, exclamó un momento después, poniéndose en pie y mirándose en un espejo que tenía a la cabecera de la cama. Mejor hubiera sido emplear nuestro tiempo en el baile ¿Quieres ir? ¡Qué!, añadió, viendo la seriedad con que yo acogía una propuesta tan descabellada, ¿te ha impresionado mi charla sentimental? ¡Bah! eso es pasajero. ¡Ven al baile!</p>
+         <p>-¿Yo presentarme a esta hora? ¡Imposible!</p>
+         <p>-Mandaremos llamar quien nos acompañe.</p>
+         <p>-No puedo, no quiero. Perdóneme usted, pero...</p>
+         <p>-No te quiero obligar, me contestó Yo iré, mi sistema consiste en no dejarme llevar nunca por la tristeza, y a todo trance combatirla.</p>
+         <p>No quiso ponerse adorno alguno. Soltó su rubia cabellera, se ató una cinta .azul alrededor de la cabeza, se envolvió graciosamente en un chal del mismo color, y llamando a un negro esclavo le mandó que llamase a quien la fuese a acompañar al baile. </p>
+         
+         <pb n="95"></pb>
+         <p>Mientras llegaban los amartelados ansiosos de obedecer su orden, me hizo acostar en su cama y se despidió afectuosamente de mí al partir. Quedéme aterrada con las revelaciones que me había hecho y admirada de los caprichos de aquella mujer tan extraña y... tan infeliz. </p>
+         <p>Al cabo de pocos días la familia Hernández regresó a <name type="place">Bogotá</name>; y se pasaron cerca de treinta años sin que yo volviera a ver a <name type="person">Aureliana</name> ni tener de ella sino vagas noticias de que no hice caso. </p>
+   
+
+        <p>II La Vejez</p>
+
+         <p>Al fin me casé, mis hijos crecieron y a su vez me rodearon de nietos. </p>
+         <p>Veía mi juventud en lontananza, como un sueño que pasó; pero estaba satisfecha con mi humilde suerte.</p>
+         <p>Descansaba una tarde sentada a la puerta de mi casa. El día había sido muy caluroso haciendo apetecible la sombra de los árboles que refrescaban mi alegre habitación. De repente veo salir de la posada del pueblo a una señora anciana, inclinada por la edad y las dolencias y apoyándose en el brazo de un negro viejo. Después de vacilar un momento y siguiendo la dirección que el negro le indicó, se dirigió hacía mí con suma lentitud y trabajo.</p>
+         
+         <pb n="96"></pb>
+
+         <p>Al llegar al sitio en que yo estaba, se detuvo y con voz apagada y triste me dijo:</p>
+         <p>-¿Me conoces, Mercedes? </p>
+         <p>-No, no recuerdo...</p>
+        <p>-¿Pero tal vez no habrás olvidado a <name type="person">Aureliana</name> Hernández? ¿no es cierto? </p>
+        <p>-¡La señora <name type="person">Aureliana</name>! ¿Acaso?...</p>
+        <p>-¡Soy yo! </p>
+        <p>La miré llena de asombro. No le había quedado la menor huella de su singular belleza. Parecía tener más de setenta años: la cutis ajada por los afeites, y acaso también por los sufrimientos, estaba arrugada y amarillenta: los ojos, tan brillantes en la juventud, ahora turbios y enrojecidos: el cuerpo agobiado y el andar lento y trabajoso, indicaban que las personas de una larga enfermedad la habían envejecido aún más que el transcurso de los años. </p>
+        <p>Inmediatamente la hice entrar y recordando el cariño que me tuvo en otro tiempo, le prodigué cuantos cuidados pude, procurando hacerle olvidar el aislamiento en que la encontraba. No me atrevía a preguntarle por su familia que abandonaba así en la vejez a una mujer que había sido tan contemplada en su juventud. </p>
+        <p>Indagando el motivo que le había traído a ***, me contestó: </p>
+        <p>-Mis enfermedades y la orden de los médicos.</p>
+        <p>-¿Y la familia de usted está en <name type="place">Bogotá?</name> </p>
+         
+         <pb n="97"></pb> 
+
+         <div><p>-Sí; allí están todos.</p>
+         <p>-¿Y la hija de usted por qué no la acompaña?</p>
+         <p>-La pobre, dijo, con una sonrisa de resignación, está en vísperas de casarse, y no era justo que abandonase a su novio para venirse al lado de una inválida como yo.</p>
+         <p>-¿Y el señor N<corr>...</corr> su esposo?</p>
+         <p>-El clima cálido le hace daño.</p>
+         <p>-¿Y sus dos hijos?<corr>...</corr></p>
+         <p>- Sus negocios les impiden salir al <name type="place">campo</name>. Pero vino acompañándome el negro, el mismo <name type="personRoleName">esclavo</name> que conocerías en casa, y el único que comprende y soporta mis caprichos; él nunca me ha querido abandonar a pesar de ser ya libre.</p>
+         <p>Un antiguo <name type="personRoleName">esclavo</name>fiel era el único y el último apoyo que le había quedado a aquella mujer tan festejada. Se me aprestaba el corazón al oírla, y se me llenaron los ojos de lágrimas al contemplar una vejez tan triste después de una juventud tan brillante<corr>...</corr></p>
+         <p><name type="person">Aureliana</name> permaneció un mes en mi casa, atendida, me dijo, como no se veía hacía mucho tiempo. En las largas conversaciones que tuvimos comprendí que la segunda parte de su vida había sido una terrible expiación de la loca vanidad de la primera. Poco a poco me fue descubriendo los secretos más dolorosos de su vida.</p>
+         
+         <pb n="98"></pb> 
+
+         <p>Casada hacia el fin de su juventud con un hombre a quien ella no amaba, y de quien no era amada, pronto descubrió que él solo había querido especular con su riqueza, y noto con terror que su belleza desaparecía paso, a paso. Sin educación esmerada, sin instrucción alguna, al perder esa hermosura que era su único atractivo, los admiradores fueron abandonándola sucesivamente. Veía con afán que su presencia no causaba ya emoción y que las miradas de los concurrentes a las fiestas a que asistía no se fijaban en ella. Deseosa entonces de abandonar el teatro de sus primeros triunfos, acompaño a su esposo con gusto a los <name type= "country">Estados Unidos</name>; pero allí se vio aun más desdeñada. Desesperada, procuro hacer mil esfuerzos para recuperar su perdida hermosura, y pasaba largas horas delante de su espejo adornándose con todo el arte que una experiencia consumada le había enseñado. Ocasión hubo en que su espejo le hacía ver de nuevo la <name type= "person">Aureliana</name> de su juventud y llena de ilusiones y colmada de esperanzas se presentaba en las fiestas y los bailes, pero los demás la miraban como se mira a una ruina blanqueada y pintada. Otras, muy bellas pero más jóvenes, se llevaban palma.</p>
+         <p>¡Cuántos y cuán crueles desengaños tendría aquella pobre mujer, que había fincado su vida en sus atractivos personales! sufría momentos de postración en que pedía a Dios la muerte más bien que dejar de ser admirada.</p>
+         
+         <pb n="99"></pb>
+         
+         <p>En esas luchas, en este afán pasó algunos años antes de llegar a persuadirse de la inutilidad de sus esfuerzos. Las aguas, los polvos y los cosméticos con que procuró hacer revivir su perdida frescura aniquilaron los restos de su colorido y mancharon lo albo de su tez; las enfermedades apagaron antes de tiempo el brillo de sus ojos y destruyeron su hermosa cabellera, y por añadidura las lágrimas, los desengaños y las penas domésticas acabaron con el último resto de su singular belleza.</p>
+         <p>Durante la niñez de sus hijos éstos se habían visto abandonados por la madre, que perseguía sus últimos triunfos; y así perdió ese primer cariño filial tan puro y tan bello. Por otra parte, las palabras desdeñosas del señor N <corr>...</corr> habían hecho nacer en el corazón de esos niños un sentimiento de completa indiferencia hacia su madre desamada y poco respetada.</p>
+         <p>Cuando al fin <name type="person">Aureliana</name> se convenció que habían pasado los últimos arreboles de vanidad mundana, se volvió hacia sus hijos; pero recibieron con disgusto sus expresiones de cariño, creyeron que era uno de los muchos caprichos pasajeros de que su padre la acusaba diariamente, y llenos de frialdad no le hicieron caso.</p>
+         <p><name type="person">Aureliana</name> era, en efecto, impertinente y caprichosa, resultado natural e infalible de su mala educación  y de la vida que había llevado</p>
+         
+         
+         </div>
+      </body>
   </text>
 </TEI>

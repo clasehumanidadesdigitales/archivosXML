@@ -24,31 +24,23 @@
 <text>
 <body>
 <div>
-<p>
-Habían enviado aquel día: joyas, vestidos, adornos costosos, piezas de vajilla, flores naturales y artificiales, frutas raras y exquisitas… en fin, allí estaban los objetos más curiosos que se podían encontrar en
-<placeName>Bogotá</placeName>
-.
-</p>
+<pb n="84"></pb>
+<p> El cuarto estaba lujosamente amueblado. Sobre las mesas se veían los regalos que le habían enviado aquel día: joyas, vestidos, adornos costosos, piezas de vajilla, flores naturales y artificiales, frutas raras y exquisitas… en fin, allí estaban los objetos más curiosos que se podían encontrar en <name type="place">Bogotá</name>. </p>
 <p>—¿Es hoy el cumpleaños de usted? —le pregunté admirada al ver tantos regalos.</p>
-<p>—No —me contestó con aire de triunfo—. Mis sonrisas valen más que todo esto que me envían; en cambio, uno de los que se me han acercado hoy, al comprender algún capricho mío, me ha querido complacer enviando lo que deseaba.</p>
-<p>Un no sé qué irónico y triste pasó por su lindo rostro al decir estas palabras, e instintivamente sentí que aquella existencia de vanidad me repugnaba.</p>
-<p>
-Durante las dos semanas que permanecí en
-<placeName>Bogotá</placeName>
-estuve continuamente con
-<name type="person">Aureliana</name>
-, y al tiempo de despedirme, vi brillar una lágrima de sentimiento entre sus crespas pestañas.
-</p>
+<p>—No, me contestó con aire de triunfo. Mis sonrisas valen más que todo esto que me envían; en cambio, uno de los que se me han acercado hoy, al comprender algún capricho mío, me ha querido complacer enviando lo que deseaba.</p>
+<p> Un no sé qué irónico y triste pasó por su lindo rostro al decir estas palabras, e instintivamente sentí que aquella existencia de vanidad me repugnaba.</p>
+<p> Durante las dos semanas que permanecí en <name type="place">Bogotá</name> estuve continuamente con <name type="person">Aureliana</name>, y al tiempo de despedirme, vi brillar una lágrima de sentimiento entre sus crespas pestañas. </p>
 <p>
 A pesar de los homenajes de todos los altos personajes de la República, de las fiestas que le daban y de los elogios que le prodigaban, la humilde admiración de una
-<name type="person">campesina</name>
+<name type="personRoleName">camepsina</name>
+
 despertó en su corazón un cariño sincero.
 </p>
 <p>
 Me hallaba algunos años después en
-<placeName>Tocaima</placeName>
+<name type="place">Tocaima</name>
 , con mi
-<name type="person">padre</name>
+<name type="personRoleName">padre</name>
 enfermo, cuando se supo que en esos días llegarían los
 <name type="person">Hernández</name>
 .
@@ -56,25 +48,22 @@ enfermo, cuando se supo que en esos días llegarían los
 <p>
 Éste fue un acontecimiento para todos los que estaban en el pueblo.
 <name type="person">Aureliana</name>
-se había enfermado. ¡Qué calamidad!
-</p>
-<p>
-Se dijo que el
-<name type="person">presidente</name>
+se había enfermado. ¡Qué calamidad! Se dijo que el
+<name type="personRoleName">presidente</name>
 le prestaría su coche para atravesar la
-<placeName>Sabana</placeName>
+<name type="place">Sabana</name>
 y que los mejores caballos de la capital estaban a su disposición.
 </p>
 <p>
 En
-<placeName>La Mesa</placeName>
+<name type="place">La Mesa</name>
 le prepararon una silla de manos, por si acaso prefería ese modo de viajar. En fin, cuando se supo que llegaba la familia
 <name type="person">Hernández</name>
 , salieron todos los principales habitantes del lugar a recibirlas.
 </p>
 <p>
 Les habían destinado la mejor casa de
-<placeName>Tocaima</placeName>
+<name type="place">Tocaima</name>
 , y cada cual envió cuanto creía que la enferma pudiese necesitar.
 </p>
 <p>
@@ -84,7 +73,7 @@ que yo estaba en el pueblo, me mandó llamar con mil afectuosas expresiones.
 </p>
 <p>
 La encontré pálida, pero bella como siempre. Aunque la acompañaba una comitiva bastante numerosa de jóvenes y amigas de
-<placeName>Bogotá</placeName>
+<name type="place">Bogotá</name>
 , gustaba mucho de mi compañía y pasábamos una gran parte del día juntas.
 </p>
 <p>

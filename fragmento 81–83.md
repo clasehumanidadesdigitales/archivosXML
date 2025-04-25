@@ -25,7 +25,7 @@ la primera parte de luz y sombra
   <text>
     <body>
       <div>
-        <head>La juventud</head>
+        <p>La juventud</p>
         <p>Brillaba Santander en toda su gloria militar, en todo el esplendor de sus triunfos y en el apogeo de su juventud y gallardía. El pueblo se regocijaba con su adquirida patria, y el gozo y satisfacción que causa el sentimiento de la libertad noblemente conquistada se leía en todos los semblantes.</p>
         <p>Contaba yo de catorce a quince años. Había perdido a mi madre poco antes, y mi padre, viéndome triste y abatida, quiso que acompañada por una señora respetable, visitase a Bogotá y asistiese a las procesiones de Semana Santa, que se anunciaban particularmente solemnes para ese año. En aquel tiempo el pueblo confundía siempre el sentimiento religioso con los acontecimientos políticos, y en la semana santa cada cual procuraba manifestarse agradecido al que nos había libertado del yugo de España.</p>
         <p>Triste, desalentada, tímida y retraída llegué a casa de las señoritas Hernández, donde mi compañera, doña Prudencia, acostumbraba desmontarse en Bogotá. Las Hernández eran las mujeres más de moda y más afamadas por su belleza que había entonces, particularmente una de ellas, Aureliana. Llegamos el lunes santo a las dos de la tarde, y doña Prudencia, deseosa de que yo no perdiese procesión, me obligó a vestirme, y casi por fuerza me llevó a un balcón de la calle real a reunirnos a las Hernández, que ya habían salido de casa.</p>
